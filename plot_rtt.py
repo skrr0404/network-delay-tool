@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-from ping_tool import ping_host
+from pingtool import ping_host
 
 host = "google.com"
 rtts = ping_host(host, count=20)
