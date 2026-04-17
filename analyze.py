@@ -1,4 +1,4 @@
-from ping_tool import ping_host
+from pingtool import ping_host
 
 hosts = ["google.com", "github.com", "yahoo.com"]
 
